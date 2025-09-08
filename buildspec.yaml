@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     REPOSITORY_URI: "441698169304.dkr.ecr.us-east-1.amazonaws.com/my-demo-registry"
-    DOCKER_CONTAINER_NAME: "my-spring-boot-app-w3"
+    DOCKER_CONTAINER_NAME: "my-demo-registry"
 
 phases:
   pre_build:
